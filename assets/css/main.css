@@ -1656,19 +1656,7 @@ svg {
     }
 }
 
-@media only screen and (max-width: 991px) {
-.menu .site-nav .logo .link-logo img {
-    width: 100px;
-    position: absolute;
-    top: 38%;
-  }
-  .menu .site-nav .nav-links{
-    top: -20px;
-  }
-  .h2{
-    font-size: 24px;
-  }
-}
+
 .menu .site-nav .nav-links {
     height: 30px;
     position: relative;
